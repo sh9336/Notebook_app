@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
     NotesProvider notesProvider = Provider.of<NotesProvider>(context);
     return  Scaffold(
       appBar: AppBar(
-        title: const Text('Notes'),
+        title: const Text('NoteBook'),
         centerTitle: true,
         backgroundColor: Colors.blue,
       ),
