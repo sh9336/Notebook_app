@@ -101,7 +101,7 @@ class _HomePageState extends State<HomePage> {
             ),
           ],
         ): Center(
-          child: Text("Note is Empty"),
+          child: Text("Note is Empty!!!!"),
         ),
       ):Center(
         child: CircularProgressIndicator(),
